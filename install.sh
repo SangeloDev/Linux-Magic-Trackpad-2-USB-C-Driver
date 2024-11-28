@@ -15,4 +15,4 @@ chmod u+x ${DIR}/scripts/install.sh
 ${DIR}/scripts/install.sh
 
 # Load driver
-sudo modprobe -a hid_magicmouse
+sudo modprobe -a hid-magicmouse_usbc

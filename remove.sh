@@ -15,4 +15,4 @@ chmod u+x ${DIR}/scripts/remove.sh
 ${DIR}/scripts/remove.sh
 
 # Remove loaded driver
-modprobe -r hid_magicmouse
+modprobe -r hid-magicmouse_usbc

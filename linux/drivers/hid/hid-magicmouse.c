@@ -994,5 +994,5 @@ static struct hid_driver magicmouse_driver = {
 };
 module_hid_driver(magicmouse_driver);
 
-MODULE_DESCRIPTION("Apple \"Magic\" Wireless Mouse driver");
+MODULE_DESCRIPTION("Apple \"Magic\" Wireless Mouse driver (USBC-PATCHED)");
 MODULE_LICENSE("GPL");
